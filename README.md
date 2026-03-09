@@ -12,3 +12,4 @@ Bu proje Netflix dizisi La Casa de Papel için yapılmış bir fan sitesidir.
 - Responsive tasarım
 - Karakter tanıtım sayfası
 - Modern CSS efektleri
+Vercel site bağlantısı: https://lacasadepapel-atve.vercel.app/
